@@ -48,8 +48,8 @@ Busco oportunidades na área de Dados para aplicar meus conhecimentos técnicos,
 
 ## 📫 Contato
 
-- LinkedIn: [SEU_LINKEDIN](https://www.linkedin.com/in/igor-lima-a7029281/)
-- GitHub: SEU_GITHUB
+- LinkedIn: www.linkedin.com/in/igor-lima-de-souza
+- GitHub: igorlimasouza
 - Email: igor.lsouza@hotmail.com
 
 ⭐ Sempre aprendendo, construindo projetos e evoluindo na área de Dados.
