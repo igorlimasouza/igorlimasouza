@@ -2,29 +2,57 @@
 
 Profissional em transição para a área de Dados, unindo experiência técnica consolidada em Engenharia Elétrica e infraestrutura com conhecimentos em SQL, Power BI e análise de dados.
 
-Tenho foco em transformar dados em informações úteis para apoiar decisões, identificar oportunidades e acompanhar indicadores de negócio.
+Atualmente estou focado em desenvolver projetos práticos, fortalecer minhas habilidades analíticas e construir soluções orientadas a dados.
 
-Desenvolvo projetos práticos utilizando ferramentas de BI e análise de dados, sempre buscando aprimorar habilidades técnicas e analíticas.
+---
 
-Meu diferencial está na capacidade de resolver problemas complexos, pensamento estruturado e visão analítica construída ao longo de mais de 20 anos de atuação em ambientes técnicos.
+## 🚀 Sobre mim
 
-Em busca de oportunidades como Analista de Dados Júnior, onde eu possa aplicar meus conhecimentos e continuar evoluindo profissionalmente na área de Dados.
-
+💻 Analista de Dados em desenvolvimento  
+📊 Estudando e criando projetos com SQL, Power BI e Python  
+⚡ Background técnico em Engenharia Elétrica e infraestrutura  
+📚 Aprendizado contínuo em dados, BI e automação  
+🔍 Interesse em análise de dados, dashboards e tomada de decisão orientada por dados 
 
 
 ---
 
-## 🚀 Minhas Skills
+## 🛠️ Tecnologias e Ferramentas
 
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML5"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="Typescript"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" alt="Bootstrap"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="React"/></code>
-
+- SQL
+- Power BI
+- Python
+- Excel
+- Git & GitHub
+- Banco de Dados
+- Modelagem de Dados
 
 ---
+
+## 📚 Atualmente estudando
+
+- SQL
+- Python para análise de dados
+- Power Bi para Dashboards
+- Modelagem de dados
+- Estatística aplicada
+- Storytelling com dados
+
+---
+
+## 🎯 Objetivo
+
+Busco oportunidades na área de Dados para aplicar meus conhecimentos técnicos, evoluir profissionalmente e gerar valor através da análise de informações e tomada de decisões baseada em dados.
+
+---
+
+## 📫 Contato
+
+- LinkedIn: [SEU_LINKEDIN](https://www.linkedin.com/in/igor-lima-a7029281/)
+- GitHub: SEU_GITHUB
+- Email: igor.lsouza@hotmail.com
+
+⭐ Sempre aprendendo, construindo projetos e evoluindo na área de Dados.
 
 ## ⭐ GitHub Stats
 
