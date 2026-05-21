@@ -1,8 +1,14 @@
 ## 😎 Olá, meu nome é Igor Lima!
 
-Sou um profissional em transição de carreira para o desenvolvimento Front-End, Formado em Análise de Desenvolvimento de Sistemas, atuei como Técnico em Informática e Telecomunicações, 
-com foco em suporte a usuários, manutenção de microcomputadores, redes e sistemas operacionais, além de projetos de instalação de links de rádio, multiplexadores e implementação de sistemas 4G e 5G.
-Essa trajetória me deu uma base sólida em resolução de problemas, lógica e infraestrutura de TI, habilidades que hoje aplico ao meu aprendizado em HTML, CSS e JavaScript.
+Profissional em transição para a área de Dados, unindo experiência técnica consolidada em Engenharia Elétrica e infraestrutura com conhecimentos em SQL, Power BI e análise de dados.
+
+Tenho foco em transformar dados em informações úteis para apoiar decisões, identificar oportunidades e acompanhar indicadores de negócio.
+
+Desenvolvo projetos práticos utilizando ferramentas de BI e análise de dados, sempre buscando aprimorar habilidades técnicas e analíticas.
+
+Meu diferencial está na capacidade de resolver problemas complexos, pensamento estruturado e visão analítica construída ao longo de mais de 20 anos de atuação em ambientes técnicos.
+
+Em busca de oportunidades como Analista de Dados Júnior, onde eu possa aplicar meus conhecimentos e continuar evoluindo profissionalmente na área de Dados.
 
 
 
